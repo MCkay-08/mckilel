@@ -1,0 +1,32 @@
+        html {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        ul {
+            margin: 0;
+            list-style: none;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        
+        .nav {
+            background-color: white;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 40px;
+        }
+        
+        .navlist {
+            display: flex;
+            width: 145px;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .homelink {
+            font-size: 15px;
+            font-weight: 500;
+        }
